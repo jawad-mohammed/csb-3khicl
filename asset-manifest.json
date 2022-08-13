@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jawad-mohammed.github.io/csb-3khicl/static/css/main.acb5ad81.chunk.css",
+    "main.js": "https://jawad-mohammed.github.io/csb-3khicl/static/js/main.37af031c.chunk.js",
+    "main.js.map": "https://jawad-mohammed.github.io/csb-3khicl/static/js/main.37af031c.chunk.js.map",
+    "runtime-main.js": "https://jawad-mohammed.github.io/csb-3khicl/static/js/runtime-main.8fc145fb.js",
+    "runtime-main.js.map": "https://jawad-mohammed.github.io/csb-3khicl/static/js/runtime-main.8fc145fb.js.map",
+    "static/js/2.16079a7d.chunk.js": "https://jawad-mohammed.github.io/csb-3khicl/static/js/2.16079a7d.chunk.js",
+    "static/js/2.16079a7d.chunk.js.map": "https://jawad-mohammed.github.io/csb-3khicl/static/js/2.16079a7d.chunk.js.map",
+    "index.html": "https://jawad-mohammed.github.io/csb-3khicl/index.html",
+    "static/css/main.acb5ad81.chunk.css.map": "https://jawad-mohammed.github.io/csb-3khicl/static/css/main.acb5ad81.chunk.css.map",
+    "static/js/2.16079a7d.chunk.js.LICENSE.txt": "https://jawad-mohammed.github.io/csb-3khicl/static/js/2.16079a7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fc145fb.js",
+    "static/js/2.16079a7d.chunk.js",
+    "static/css/main.acb5ad81.chunk.css",
+    "static/js/main.37af031c.chunk.js"
+  ]
+}
